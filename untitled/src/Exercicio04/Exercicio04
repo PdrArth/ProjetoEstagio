@@ -1,0 +1,11 @@
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+1) Posso ter 3 lampandas diferentes uma em cada cor, com isso eu ligo o interruptor 1.
+Vou para uma das salas e vejo qual esta ligado, volto desligo o 1 interruptor e ligo o 3, vou para uma das duas salas que nao fui e analiso a cor.
+Se elas forem da mesma cor?
+
+2)Ligo um interruptor e o deixo ligado por 20 minutos, depois ligo o interruptor 2 e deixo ligado por 5 minutos,
+vou para a sala se estiver frio eh o interruptor 3, se intiver bem quente interruptor 1 a controla, se
+estiver um pouco quente mas nao tao quente como o 1 o interruptor  2 a controla.
